@@ -11,8 +11,8 @@ I'm Eli 🙋‍♂️, a Software Engineer with a background in Web Development 
 
 ## Let's Connect! 🤝
 
-[LinkedIn](https://www.linkedin.com/in/eli-bales/)
-
+* [LinkedIn](https://www.linkedin.com/in/eli-bales/)
+* [Resume](https://github.com/e-bales/e-bales/blob/main/Resume_ebales.pdf)
 
 <!--
 **e-bales/e-bales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
