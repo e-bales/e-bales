@@ -11,7 +11,7 @@ Tools and Libraries: AWS, MongoDB, Git, PyTorch, NumPy, Pandas, Docker, Linux
 ## Let's Connect! 🤝
 
 * [LinkedIn](https://www.linkedin.com/in/eli-bales/)
-* [Resume](https://github.com/e-bales/e-bales/blob/main/Resume_ebales.pdf)
+* [Resume](https://github.com/e-bales/e-bales/blob/main/Resume_EB_0.pdf)
 
 <!--
 **e-bales/e-bales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
