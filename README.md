@@ -5,6 +5,7 @@ I'm Eli, a Software Engineer with a background in System Design, Cloud Computing
 ## My skillset 📁
 
 Languages: JavaScript (Node.js, React.js), Python, Java, C++, HTML, CSS, SQL (PostgreSQL), NoSQL
+
 Tools and Libraries: AWS, MongoDB, Git, PyTorch, NumPy, Pandas, Docker, Linux 
 
 ## Let's Connect! 🤝
